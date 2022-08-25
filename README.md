@@ -12,3 +12,8 @@ XUID uses the whole alphanumeric space to create a unique string that you can us
 
 I read an article on how to allegedly store passwords, as in don't store the password but store a salted hash of the password, and compare a salted hash of the current password attempt to the one in the database. 
 So I tried implementing something like that in python, but with different salt for different characters. 
+
+
+## PhD Calendar Random Selector
+
+In this notebook I walk through taking available dates and randomly assigning them as options for 6 different PhD groups, and writing `.ics` files for each group. 
