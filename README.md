@@ -16,4 +16,8 @@ So I tried implementing something like that in python, but with different salt f
 
 ## PhD Calendar Random Selector
 
-In this notebook I walk through taking available dates and randomly assigning them as options for 6 different PhD groups, and writing `.ics` files for each group. 
+In this notebook I walk through taking available dates and randomly assigning them as options for 6 different PhD groups, and writing `.ics` files for each group. This was to help with workshop planning. 
+
+## Max of 2 dice rolls timing
+
+I was watching a [Stand Up Maths](https://www.youtube.com/@standupmaths/videos) video on [picking the highest of two dice rolls](https://www.youtube.com/watch?v=X_DdGRjtwAo), and decided to create my own version of the code and see how fast I could get it to run. 
