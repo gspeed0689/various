@@ -21,3 +21,7 @@ In this notebook I walk through taking available dates and randomly assigning th
 ## Max of 2 dice rolls timing
 
 I was watching a [Stand Up Maths](https://www.youtube.com/@standupmaths/videos) video on [picking the highest of two dice rolls](https://www.youtube.com/watch?v=X_DdGRjtwAo), and decided to create my own version of the code and see how fast I could get it to run. 
+
+## Microsoft OneDrive/SharePoint Storage Potentials
+
+In the development for a workshop, I was trying to demonstrate the storage potentials of several users in various setups with the OneDrive, SharePoint, and TeamSite storages. This is an unannotated notebook that is still in development, but is at a point that it shows usage graphs for various services, and their potential sizes. 
